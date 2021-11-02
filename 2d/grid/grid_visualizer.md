@@ -19,10 +19,10 @@ Criar um Node2D e adicionar o script abaixo para gerar a grade
 
 Variáveis acessíveis
 
-| Variável  | Tipo | Descrição                                   |
-| --------- | ---- | ------------------------------------------- |
-| on        | Bool | Ativa ou desativa o visualizador            |
-| sizeTiles | Int  | Tamanho do grid que será desenhado ex 64x64 |
+| Variável | Tipo | Descrição                                   |
+| -------- | ---- | ------------------------------------------- |
+| on       | Bool | Ativa ou desativa o visualizador            |
+| tileSize | Int  | Tamanho do grid que será desenhado ex 64x64 |
 
 
 
