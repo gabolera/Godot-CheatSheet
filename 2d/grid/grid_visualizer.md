@@ -3,7 +3,7 @@
 
 <p align="center">
 
-![GodotImage](./imagens/godot_icon.png)
+![GodotImage](../../imagens/godot_icon.png)
 
 </p>
 
